@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Emanuele
 
-Full-stack dev with 15+ years shipping product across healthtech, travel-tech, and AI tooling. I move between hands-on architecture and engineering leadership — happy in the IDE (Windsurf currently) or in a strategy meeting.
+Full-stack dev with 12+ years shipping product across healthtech, travel, and AI tooling. I move between hands-on architecture and engineering leadership — happy in the IDE or in a strategy meeting.
 
 Currently based in **Brisbane, Australia** 🇦🇺 (Italian by origin 🇮🇹)
 
@@ -15,7 +15,7 @@ Currently based in **Brisbane, Australia** 🇦🇺 (Italian by origin 🇮🇹)
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36" title="React" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="36" height="36" title="Vue" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="36" height="36" title="GraphQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Android" width="36" height="36" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36" title="Python" />
 </p>
 
 **Databases**
